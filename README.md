@@ -1,7 +1,7 @@
-# AESthetic-Crypto
+AESthetic-Crypto
 Your easy-to-use and friendly AES Encryptor/Decryptor
 
-# Installation and Usage
+Installation and Usage
 git clone https://github.com/TheHumanGoogle/AESthetic-Crypto.git
 cd AESthetic-Crypto
 python3 aes1.py
